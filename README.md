@@ -1,21 +1,15 @@
-<h4 align="center">
+<h4 >
   <samp> Hi there 👋🏾  welcome to my Github! I’m Jonathan Guillou.</samp>
 </h4>
-
-<p align="center">
-<a href= "https://www.linkedin.com/in/johnguillou/"><img src="https://img.icons8.com/material/32/000000/linkedin--v1.png"/></a>
-<a href= "https://twitter.com/Guilloujohn"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-</p>
-
----
 
 - 👀 I’m interested in test automation and Python programming
 - 🌱 I’m currently learning Robot Framework and Python
 - 💞️ I’m looking to collaborate on Software Test Automation
+- 📫 <a href= "https://www.linkedin.com/in/johnguillou/"><img src="https://img.icons8.com/material/24/000000/linkedin--v1.png"/> </a> <a href= "https://twitter.com/Guilloujohn"><img src="https://img.icons8.com/material-outlined/24/000000/twitter.png"/></a>
 
 ---
 
-<h4 align="center">
+<h4 >
   <samp> My Stack</samp>
 </h4>
 <p align="center">
@@ -24,9 +18,5 @@
 
 ---
 
-
-
 ![GitHub stats jgdevrennes](https://github-readme-stats.vercel.app/api?username=jgdevrennes&show_icons=true&theme=tokyonight)
-
-
-![GitHub stats jgdevrennes](https://github-readme-stats.vercel.app/api/top-langs/?username=jgdevrennes&hide=css,html&theme=tokyonight)
+![GitHub stats jgdevrennes](https://github-readme-stats.vercel.app/api/top-langs/?username=jgdevrennes&hide=css,html&layout=compact&theme=tokyonight)
