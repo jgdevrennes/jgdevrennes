@@ -1,5 +1,4 @@
-### Hi There 👋
-- I’m @jgdevrennes
+### 👋Hi, I’m Jonathan Guillou
 - 👀 I’m interested in test automation and Python programming
 - 🌱 I’m currently learning Robot Framework and Python
 - 💞️ I’m looking to collaborate on Software Test Automation
