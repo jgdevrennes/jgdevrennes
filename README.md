@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jgdevrennes
+### Hi There 👋
+- I’m @jgdevrennes
 - 👀 I’m interested in test automation and Python programming
 - 🌱 I’m currently learning Robot Framework and Python
 - 💞️ I’m looking to collaborate on Software Test Automation
