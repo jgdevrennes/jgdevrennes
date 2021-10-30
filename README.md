@@ -1,8 +1,8 @@
 <h4 align="center">
-  <samp>Hi there 👋🏾  welcome to my Github!</samp>
+  <samp>Hi there 👋! Welcome to my Github!</samp>
 </h4>
-<p align="center">I’m Jonathan Guillou.</p>
-<p align="center">Software Test Automation Engineer QA</p>
+<p align="center"><bold>I’m Jonathan Guillou.</bold></p>
+<p align="center"><bold>Software Test Automation Engineer QA</bold></p>
 
 ---
 
@@ -17,6 +17,7 @@
   <samp>My languages and tools :</samp>
 </h4>
 
+<p>
 <img alt="robotframework" width="26px" src="Img/ROBOTFRAMEWORK.png" />
 <img alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
@@ -29,7 +30,7 @@
 <img alt="gitlab" width="26px" src="Img/GITLAB.png" />
 <img alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+</p>
 
 ---
 
