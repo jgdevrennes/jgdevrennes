@@ -9,7 +9,6 @@
 * 👀 I'm interested in **Test Automation** and **Python programming**
 * 🌱 I'm currently learning @Robotframework and Python
 * 💞️ I'm looking to collaborate on **Quality Assurance Projects**
-* 🥅 2022 Goals: Create more Open Source projects
 
 ---
 
